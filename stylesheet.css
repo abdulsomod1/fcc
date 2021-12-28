@@ -11,12 +11,12 @@ body {
 
 ul {
   max-width: 550px;
-  margin: 0 auto;
+  margin: auto;
   text-align: left;
 }
 
 #image {
-  margin: 0 auto;
+  margin: auto;
   font-size: 100%;
   max-width: 97%;
   display: block;

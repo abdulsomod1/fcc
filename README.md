@@ -2,26 +2,26 @@
 
 > The robot technology for who are willing to lean how to build or how to know the year it was discoverd.
 
-![screenshot](./readme.png)
+![screenshot](./https://github.com/abdulsomod1/fcc_tribute_page/issues/3#issue-1090134207)
 
 It contains more the robot pictures of the robot more about it uses
 
 ## Built With
 
-- english language,
-- html,
+- Doctype html,
+- body
 - html and css
 
 ## Live Demo
 
-[Live Demo Link](https:britannica.com/technology/robot-technology#ref248209.com)
+[Live Demo Link](https://fast-cooking-equipment.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/abdulsomod1/fcc_tribute_page/pulls
 
 ```
 
@@ -83,8 +83,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
+- w3 school
+- boss,boss
 - etc
 
 ## 📝 License
