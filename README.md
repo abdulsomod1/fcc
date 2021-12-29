@@ -1,16 +1,16 @@
 # Robot technology
 
-> The robot technology for who are willing to lean how to build or how to know the year it was discoverd.
+> This page talks about robot knowledge and it was done by html,css,stylelint etc.
 
-![screenshot](./https://github.com/abdulsomod1/fcc_tribute_page/issues/3#issue-1090134207)
+![screenshot](./screenshort.png)
 
 It contains more the robot pictures of the robot more about it uses
 
 ## Built With
 
-- Doctype html,
-- body
-- html and css
+- ancor tag 
+- ul 
+- main
 
 ## Live Demo
 
@@ -90,3 +90,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 [MIT licensed](./LICENSE).
+Copyright (c) 2021 Abdulsomod habeebullah
