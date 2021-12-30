@@ -1,16 +1,16 @@
 # Robot technology
 
-> This page talks about robot knowledge and it was done by html,css,stylelint etc.
-
+> This page talks about robot knowledge and it was done by html,css and there component.
 ![screenshot](./screenshort.png)
 
 It contains more the robot pictures of the robot more about it uses
 
 ## Built With
 
-- ancor tag 
-- ul 
-- main
+- `ul` ( unorderd list to represent my numbering with bullet) 
+- `a` ( to link an externl wepsite with pages)
+- `main` ( is also used in html)
+- 
 
 ## Live Demo
 
@@ -89,5 +89,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-[MIT licensed](./LICENSE).
-Copyright (c) 2021 Abdulsomod habeebullah
+[MIT licensed](./LICENSE)
