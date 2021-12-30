@@ -1,16 +1,16 @@
 # Robot technology
 
 > This page talks about robot knowledge and it was done by html,css and there component.
-![screenshot](./screenshort.png)
+> ![screenshot](./screenshort.png)
 
 It contains more the robot pictures of the robot more about it uses
 
 ## Built With
 
-- `ul` ( unorderd list to represent my numbering with bullet) 
+- `ul` ( unorderd list to represent my numbering with bullet)
 - `a` ( to link an externl wepsite with pages)
 - `main` ( is also used in html)
-- 
+-
 
 ## Live Demo
 
